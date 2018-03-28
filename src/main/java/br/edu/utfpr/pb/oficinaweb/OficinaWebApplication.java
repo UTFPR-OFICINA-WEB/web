@@ -8,5 +8,6 @@ public class OficinaWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OficinaWebApplication.class, args);
+		System.out.println("123");
 	}
 }
