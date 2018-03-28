@@ -8,8 +8,10 @@ import java.io.Serializable;
 import java.util.List;
 
 public interface CrudService<T, ID extends Serializable> {
+//teste sdsdfhisaduhfj
 
     List<T> findAll();
+    //sdfsodfhyusdjfkosdugvdsia
 
     List<T> findAll(Sort sort);
 
